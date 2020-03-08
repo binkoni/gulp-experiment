@@ -1,0 +1,9 @@
+[submodule "apps/jamo"]
+	path = apps/jamo
+	url = https://github.com/gonnux/jamo
+[submodule "apps/calc"]
+	path = apps/calc
+	url = https://github.com/gonnux/calc
+[submodule "apps/stellar-fighter"]
+	path = apps/stellar-fighter
+	url = https://github.com/stellar-fighter/stellar-fighter
